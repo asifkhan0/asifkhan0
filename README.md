@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <h3 align="center">
     <samp style="font-family: Arial, sans-serif; color: #2ecc71;">&gt; Hey there!, I am
-        <b><a target="_blank" href="https://github.com/asifkhan0/" style="color: #3498db; text-decoration: none;">Asif Khan</a></b>
+        <b><a target="_blank" href="https://github.com/asifkhan0/" style="color: rgb(221, 255, 0); text-decoration: none;">Asif Khan</a></b>
     </samp>
 </h3>
 
