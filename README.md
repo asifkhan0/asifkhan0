@@ -5,8 +5,8 @@
 
 <!-- Introduction -->
 <h3 align="center">
-    <samp style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4CAF50;">&gt; Hey there!, I am
-        <b><a target="_blank" href="https://github.com/asifkhan0/" style="color: #FF5722; text-decoration: none;">Asif Khan</a></b>
+    <samp style="font-family: Arial, sans-serif; color: #2ecc71;">&gt; Hey there!, I am
+        <b><a target="_blank" href="https://github.com/asifkhan0/" style="color: #3498db; text-decoration: none;">Asif Khan</a></b>
     </samp>
 </h3>
 
@@ -31,8 +31,8 @@
     <img align="right" width="350" src="programmer.gif" alt="Coding gif"/>
     ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
     ❤️ &emsp; Love writing code and learning new features<br/><br/>
-    📧 &emsp; Reach me anytime: <span style="color: #2196F3;">ashifkhan321.ak8@gmail.com</span><br/><br/>
-    💬 &emsp; Ask me about anything <a href="https://github.com/asifkhan0/" style="color: #FF5722; text-decoration: none;">here</a>
+    📧 &emsp; Reach me anytime: <span style="color: #9b59b6;">ashifkhan321.ak8@gmail.com</span><br/><br/>
+    💬 &emsp; Ask me about anything <a href="https://github.com/asifkhan0/" style="color: #e74c3c; text-decoration: none;">here</a>
 </p>
 
 <br/>
